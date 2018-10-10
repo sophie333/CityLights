@@ -1,0 +1,17 @@
+{
+	"ServerIp" : "192.168.1.105",
+	"Port" : 7777,
+	"NetworkType" : "Server",
+	"ResolutionX" : 1920,
+	"ResolutionY" : 1080,
+	"FullScreen" : "false",
+	"RefreshRate" : 60,
+	"TargetFrameRate" : 60,
+	"WallFOV" : 50,
+	"WallPos" : "0,6,0",
+	"WallRot" : "25,0,0",
+	"PlayerPlayerThreshold" : 2,
+	"PlayerObjectThreshold" : 0.3,
+	"MoveThreshold" : 5,
+	"SecondsToPlaceObject" : 2
+}

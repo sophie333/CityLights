@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1311383512018174}
+  m_IsPrefabParent: 1
+--- !u!1 &1311383512018174
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4858860534628744}
+  - component: {fileID: 114770207916516972}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4858860534628744
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1311383512018174}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114770207916516972
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1311383512018174}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a669c05975680649818302b08245618, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  wallSounds:
+  - name: Music1
+    object3D: {fileID: 0}
+    source: {fileID: 0}
+    output: {fileID: 243566119039053806, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    loop: 1
+  - name: Music2
+    object3D: {fileID: 0}
+    source: {fileID: 0}
+    output: {fileID: 243566119039053806, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    loop: 1
+  - name: Music3
+    object3D: {fileID: 0}
+    source: {fileID: 0}
+    output: {fileID: 243414813793589832, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    loop: 0
+  - name: Rumble
+    object3D: {fileID: 0}
+    source: {fileID: 0}
+    output: {fileID: 243500066956581808, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    loop: 1
+  - name: Shiphorn1
+    object3D: {fileID: 0}
+    source: {fileID: 0}
+    output: {fileID: 243500066956581808, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    loop: 0
+  - name: Shiphorn2
+    object3D: {fileID: 0}
+    source: {fileID: 0}
+    output: {fileID: 243500066956581808, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    loop: 0
+  - name: StreetCar
+    object3D: {fileID: 0}
+    source: {fileID: 0}
+    output: {fileID: 243500066956581808, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    loop: 0
+  - name: CatStory
+    object3D: {fileID: 0}
+    source: {fileID: 0}
+    output: {fileID: 243500066956581808, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    loop: 0
+  - name: Bar1
+    object3D: {fileID: 0}
+    source: {fileID: 0}
+    output: {fileID: 243302968218495384, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    loop: 1
+  - name: Bar2
+    object3D: {fileID: 0}
+    source: {fileID: 0}
+    output: {fileID: 243302968218495384, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    loop: 1
+  - name: Bar3
+    object3D: {fileID: 0}
+    source: {fileID: 0}
+    output: {fileID: 243302968218495384, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    loop: 1
+  - name: HorseCarriage
+    object3D: {fileID: 0}
+    source: {fileID: 0}
+    output: {fileID: 243500066956581808, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    loop: 0
+  - name: Dog
+    object3D: {fileID: 0}
+    source: {fileID: 0}
+    output: {fileID: 243500066956581808, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    loop: 0
+  - name: CarStory
+    object3D: {fileID: 0}
+    source: {fileID: 0}
+    output: {fileID: 243500066956581808, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    loop: 0
+  - name: Blackout
+    object3D: {fileID: 0}
+    source: {fileID: 0}
+    output: {fileID: 243500066956581808, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    loop: 0
+  - name: Meow
+    object3D: {fileID: 0}
+    source: {fileID: 0}
+    output: {fileID: 243500066956581808, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    loop: 0
+  - name: Firework1
+    object3D: {fileID: 0}
+    source: {fileID: 0}
+    output: {fileID: 243500066956581808, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    loop: 0
+  - name: Firework2
+    object3D: {fileID: 0}
+    source: {fileID: 0}
+    output: {fileID: 243500066956581808, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    loop: 0
+  - name: Firework3
+    object3D: {fileID: 0}
+    source: {fileID: 0}
+    output: {fileID: 243500066956581808, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    loop: 0
+  - name: Firework4
+    object3D: {fileID: 0}
+    source: {fileID: 0}
+    output: {fileID: 243500066956581808, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    loop: 0
+  - name: Firework5
+    object3D: {fileID: 0}
+    source: {fileID: 0}
+    output: {fileID: 243500066956581808, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    loop: 0
+  - name: Sting
+    object3D: {fileID: 0}
+    source: {fileID: 0}
+    output: {fileID: 243414813793589832, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    loop: 0
+  floorSounds:
+  - name: F_Create
+    clip: {fileID: 8300000, guid: 5ffb3c4c5e59a7a409eaa4ebfc509da5, type: 3}
+    volume: 1
+    output: {fileID: 243238336794369680, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    source: {fileID: 0}
+    loop: 0
+  - name: F_Place
+    clip: {fileID: 8300000, guid: 3c7ddbcfc441c9a41a7f5d865c5df159, type: 3}
+    volume: 1
+    output: {fileID: 243238336794369680, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    source: {fileID: 0}
+    loop: 0
+  - name: F_Error
+    clip: {fileID: 8300000, guid: c1a2425e628bfee459624b2d8192c0fb, type: 3}
+    volume: 1
+    output: {fileID: 243238336794369680, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    source: {fileID: 0}
+    loop: 0
+  fireworkSounds:
+  - name: Firework1
+    object3D: {fileID: 0}
+    source: {fileID: 0}
+    output: {fileID: 243500066956581808, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    loop: 0
+  - name: Firework2
+    object3D: {fileID: 0}
+    source: {fileID: 0}
+    output: {fileID: 243500066956581808, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    loop: 0
+  - name: Firework3
+    object3D: {fileID: 0}
+    source: {fileID: 0}
+    output: {fileID: 243500066956581808, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    loop: 0
+  - name: Firework4
+    object3D: {fileID: 0}
+    source: {fileID: 0}
+    output: {fileID: 243500066956581808, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    loop: 0
+  - name: Firework5
+    object3D: {fileID: 0}
+    source: {fileID: 0}
+    output: {fileID: 243500066956581808, guid: 50725184dab5d1e45abc88b8f4186dde, type: 2}
+    loop: 0

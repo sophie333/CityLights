@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: f37eea97c5e68414da115efd60da4c60
+timeCreated: 1528111140
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - waitCircle: {instanceID: 0}
+  - iconMove: {fileID: 21300000, guid: fa026b4c7e559db489f57b5a099761ae, type: 3}
+  - iconRotate: {fileID: 21300000, guid: d38ac027cb676904d9793f54a97c61fe, type: 3}
+  - iconError: {fileID: 21300000, guid: 1628208237043b34fbabec29ba54defa, type: 3}
+  - iconDestroy: {fileID: 21300000, guid: 483ceadb4c4ee5143b84b89534dc5596, type: 3}
+  - bottomPlaced: {fileID: 2100000, guid: e6bd04d7b7d2a3a4f9fbeca0defaf91f, type: 2}
+  - bottomEdit: {fileID: 2100000, guid: d97994f844e725043b33899eeda69243, type: 2}
+  - objectPlaced: {fileID: 2100000, guid: a5a3d51368917634ba2910cf6e766020, type: 2}
+  - objectEdit: {fileID: 2100000, guid: bc67c5762f3618942a114bb5f40f462a, type: 2}
+  - frostedPlaced: {fileID: 2100000, guid: 03e6278a03257bd4db69784dc7217ba4, type: 2}
+  - frostedEdit: {fileID: 2100000, guid: 96c6b7f53a7faba48b3e81105a2db0cd, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

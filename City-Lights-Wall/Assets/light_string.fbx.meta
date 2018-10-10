@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 03412a29d6df9d3489f6ebc0a4857b13
+timeCreated: 1529929260
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: gluebirne
+    100002: gluebirne 1
+    100004: gluebirne 10
+    100006: gluebirne 11
+    100008: gluebirne 12
+    100010: gluebirne 13
+    100012: gluebirne 2
+    100014: gluebirne 3
+    100016: gluebirne 4
+    100018: gluebirne 5
+    100020: gluebirne 6
+    100022: gluebirne 7
+    100024: gluebirne 8
+    100026: gluebirne 9
+    100028: group10
+    100030: group11
+    100032: group12
+    100034: group13
+    100036: group14
+    100038: group15
+    100040: group16
+    100042: group17
+    100044: group18
+    100046: group5
+    100048: group6
+    100050: group7
+    100052: group8
+    100054: group9
+    100056: //RootNode
+    100058: pCylinder2
+    100060: pCylinder5
+    100062: pCylinder5 1
+    100064: pCylinder5 10
+    100066: pCylinder5 11
+    100068: pCylinder5 12
+    100070: pCylinder5 13
+    100072: pCylinder5 2
+    100074: pCylinder5 3
+    100076: pCylinder5 4
+    100078: pCylinder5 5
+    100080: pCylinder5 6
+    100082: pCylinder5 7
+    100084: pCylinder5 8
+    100086: pCylinder5 9
+    400000: gluebirne
+    400002: gluebirne 1
+    400004: gluebirne 10
+    400006: gluebirne 11
+    400008: gluebirne 12
+    400010: gluebirne 13
+    400012: gluebirne 2
+    400014: gluebirne 3
+    400016: gluebirne 4
+    400018: gluebirne 5
+    400020: gluebirne 6
+    400022: gluebirne 7
+    400024: gluebirne 8
+    400026: gluebirne 9
+    400028: group10
+    400030: group11
+    400032: group12
+    400034: group13
+    400036: group14
+    400038: group15
+    400040: group16
+    400042: group17
+    400044: group18
+    400046: group5
+    400048: group6
+    400050: group7
+    400052: group8
+    400054: group9
+    400056: //RootNode
+    400058: pCylinder2
+    400060: pCylinder5
+    400062: pCylinder5 1
+    400064: pCylinder5 10
+    400066: pCylinder5 11
+    400068: pCylinder5 12
+    400070: pCylinder5 13
+    400072: pCylinder5 2
+    400074: pCylinder5 3
+    400076: pCylinder5 4
+    400078: pCylinder5 5
+    400080: pCylinder5 6
+    400082: pCylinder5 7
+    400084: pCylinder5 8
+    400086: pCylinder5 9
+    2100000: lambert1
+    2100002: gluehbirne_metall
+    2100004: gluehbirne_glas
+    2300000: gluebirne
+    2300002: gluebirne 1
+    2300004: gluebirne 10
+    2300006: gluebirne 11
+    2300008: gluebirne 12
+    2300010: gluebirne 13
+    2300012: gluebirne 2
+    2300014: gluebirne 3
+    2300016: gluebirne 4
+    2300018: gluebirne 5
+    2300020: gluebirne 6
+    2300022: gluebirne 7
+    2300024: gluebirne 8
+    2300026: gluebirne 9
+    2300028: pCylinder2
+    2300030: pCylinder5
+    2300032: pCylinder5 1
+    2300034: pCylinder5 10
+    2300036: pCylinder5 11
+    2300038: pCylinder5 12
+    2300040: pCylinder5 13
+    2300042: pCylinder5 2
+    2300044: pCylinder5 3
+    2300046: pCylinder5 4
+    2300048: pCylinder5 5
+    2300050: pCylinder5 6
+    2300052: pCylinder5 7
+    2300054: pCylinder5 8
+    2300056: pCylinder5 9
+    3300000: gluebirne
+    3300002: gluebirne 1
+    3300004: gluebirne 10
+    3300006: gluebirne 11
+    3300008: gluebirne 12
+    3300010: gluebirne 13
+    3300012: gluebirne 2
+    3300014: gluebirne 3
+    3300016: gluebirne 4
+    3300018: gluebirne 5
+    3300020: gluebirne 6
+    3300022: gluebirne 7
+    3300024: gluebirne 8
+    3300026: gluebirne 9
+    3300028: pCylinder2
+    3300030: pCylinder5
+    3300032: pCylinder5 1
+    3300034: pCylinder5 10
+    3300036: pCylinder5 11
+    3300038: pCylinder5 12
+    3300040: pCylinder5 13
+    3300042: pCylinder5 2
+    3300044: pCylinder5 3
+    3300046: pCylinder5 4
+    3300048: pCylinder5 5
+    3300050: pCylinder5 6
+    3300052: pCylinder5 7
+    3300054: pCylinder5 8
+    3300056: pCylinder5 9
+    4300000: pCylinder5
+    4300002: gluebirne
+    4300004: pCylinder5
+    4300006: gluebirne
+    4300008: pCylinder5
+    4300010: gluebirne
+    4300012: pCylinder5
+    4300014: gluebirne
+    4300016: pCylinder5
+    4300018: gluebirne
+    4300020: pCylinder5
+    4300022: gluebirne
+    4300024: pCylinder5
+    4300026: gluebirne
+    4300028: pCylinder5
+    4300030: gluebirne
+    4300032: pCylinder5
+    4300034: gluebirne
+    4300036: pCylinder5
+    4300038: gluebirne
+    4300040: pCylinder5
+    4300042: gluebirne
+    4300044: pCylinder5
+    4300046: gluebirne
+    4300048: pCylinder5
+    4300050: gluebirne
+    4300052: pCylinder5
+    4300054: gluebirne
+    4300056: pCylinder2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

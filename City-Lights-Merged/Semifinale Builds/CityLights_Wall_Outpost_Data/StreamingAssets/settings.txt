@@ -1,0 +1,21 @@
+{
+	"ServerIp" : "10.29.18.20",
+	"Port" : 7777,
+	"NetworkType" : "Server",
+	"ResolutionX" : 1920,
+	"ResolutionY" : 1080,
+	"FullScreen" : "false",
+	"RefreshRate" : 60,
+	"TargetFrameRate" : 60,
+	"WallFOV" : 50,
+	"WallPos" : "0,6,0",
+	"WallRot" : "25,0,0",
+	"PlayerPlayerThreshold" : 1,
+	"PlayerObjectThreshold" : 0.5,
+	"MoveThreshold" : 1,
+	"DelayAvailable" : 2,
+        "DestroyTime" : 4,
+	"SecondsToPlaceObject" : 2,
+	"HorizontalObliqueness" : 0,
+	"VerticalObliqueness" : 0.75
+}

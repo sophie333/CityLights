@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1db5e7366525f9041838836f0c751c3c
+timeCreated: 1524587923
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - elementManager: {instanceID: 0}
+  - GIManager: {instanceID: 0}
+  - mirrorPrefab: {fileID: 114037431613102562, guid: 02f7004b68d07f34996fdc82cd90aa23,
+      type: 2}
+  - prismPrefab: {fileID: 114687253408476140, guid: af18f15bc20d33d41b3782cfa37d1f62,
+      type: 2}
+  - splitterPrefab: {fileID: 114874857974584304, guid: 5d3e0f3dbadf41845828f35e5fcc0065,
+      type: 2}
+  - lensPrefab: {fileID: 114358553188472986, guid: efd8f78bd17ab034899d5029eb9a5341,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
